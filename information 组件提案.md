@@ -1,6 +1,6 @@
 在详情页面经常会用到卡片式的设计, 比如:
 
-* [全球新药详情页](https://db.dxy.net/dev/globalnewdrug/detail?id=45656) ![information](/Users/jiangxuan/Works/proposals/images/information-demo1.png) ![information-demo4](/Users/jiangxuan/Works/proposals/images/information-demo4.png)
+* [全球新药详情页](https://db.dxy.net/dev/globalnewdrug/detail?id=45656) ![information](images/information-demo1.png) ![information-demo4](images/information-demo4.png)
 * [上市产品详情页](https://db.dxy.net/dev/cfda/base?id=181693&dbtype=1) ![informationdemo2](images/information-demo2.png)
 * 全球新药适应症详情页(还未上线) ![information-demo3](images/information-demo3.png)
 
@@ -25,32 +25,16 @@
 - [x] 组件的设计细节
   
   - [x] 组件的设计细节图
-    
-    - [x] default ![information-mark-default](images/information-mark-default.png)
-    
-    - [x] bordered ![information-mark-bordered](images/information-mark-bordered.png)
+  
+  - [x] default ![information-mark-default](images/information-mark-default.png)
+  
+  - [x] bordered ![information-mark-bordered](images/information-mark-bordered.png)
 
 - [x] 组件的 props
   
-  | name     | type             | required | default |
-  | -------- | ---------------- | -------- | ------- |
-  | title    | string|ReactNode | false    | -       |
-  | bordered | boolean          | false    | false   |
+  | name     | type    | required  | default |
+  | -------- | ------- | --------- | ------- |
+  | title    | string  | ReactNode | false   |
+  | bordered | boolean | false     | false   |
 
 - [ ] demo & 文档
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
