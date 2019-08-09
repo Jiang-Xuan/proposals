@@ -4,7 +4,7 @@
 * [上市产品详情页](https://db.dxy.net/dev/cfda/base?id=181693&dbtype=1) ![informationdemo2](images/information-demo2.png)
 * 全球新药适应症详情页(还未上线) ![information-demo3](images/information-demo3.png)
 
-这些 demo 中都有以下共性:
+这些设计中都有以下共性:
 
 * 整个块有 24px 的内边距
 
